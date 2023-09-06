@@ -1,5 +1,5 @@
 # Access-Control-ITI
-This is the final project for a one month ITI training, It is an Access Control System based on ATMEGA32 microcontroller.
+This is my final project for a one month ITI training, It is an Access Control System based on ATMEGA32 microcontroller.
 
 It consists of 2 MCUs, 
 
